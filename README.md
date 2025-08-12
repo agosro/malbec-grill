@@ -28,3 +28,7 @@ Este es un sitio web responsivo y moderno para el restaurante **Malbec & Grill**
 - Imágenes generadas con IA
 
 ---
+
+## Capturas de Pantalla
+
+
