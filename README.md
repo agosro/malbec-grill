@@ -31,4 +31,16 @@ Este es un sitio web responsivo y moderno para el restaurante **Malbec & Grill**
 
 ## Capturas de Pantalla
 
+![Pantalla principal de Malbec and Grill ](imgs/1.png)
+
+![Sobre Nosotros](imgs/11.png)
+
+![Menu](imgs/2.png)
+
+![Postres y Combos](imgs/3.png)
+
+![Footer](imgs/4.png)
+
+---
+
 
